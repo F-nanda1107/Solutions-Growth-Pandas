@@ -3,4 +3,4 @@ This repository contains the notebooks I created for my Economic Growth and Comp
 # Branch gh-pages
 Here is the link to the slides with the solution to introduction to data analysis with pandas: 
 
-https://f-nanda1107.github.io/Solutions-Growth/#/3 
+https://f-nanda1107.github.io/Solutions-Growth-Pandas/
